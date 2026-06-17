@@ -1,0 +1,54 @@
+# 04 - IP público e IP privado
+
+## IP privado
+
+Meu computador recebeu um endereço IPv4 privado na rede local.
+
+Por segurança, não vou publicar o IP completo do meu dispositivo.
+
+Exemplo mascarado:
+
+`192.168.15.x`
+
+## O que é IP privado?
+
+IP privado é usado dentro de uma rede local, como casa, empresa ou escritório.
+
+Ele identifica dispositivos conectados ao mesmo roteador, como:
+
+* computador
+* celular
+* impressora
+* smart TV
+
+## O que é IP público?
+
+IP público é o endereço usado para identificar uma rede na internet.
+
+Normalmente, o roteador recebe o IP público do provedor de internet.
+
+## Cuidados de segurança
+
+Ao documentar estudos de cybersecurity, é importante evitar publicar informações sensíveis, como:
+
+* IP público
+* IP completo de dispositivos pessoais
+* endereço MAC
+* nome da rede Wi-Fi
+* dados do roteador
+* senhas
+* tokens
+* chaves de API
+* prints completos com dados pessoais
+
+## O que aprendi
+
+Meu computador usa um IP privado dentro da rede local.
+
+Mesmo estudando conceitos básicos, é importante documentar os estudos com cuidado para não expor informações pessoais ou da minha rede.
+
+## Relação com Cybersecurity
+
+Entender IP público e privado ajuda a analisar redes, identificar dispositivos e compreender exposição de serviços na internet.
+
+Também ajuda a desenvolver uma mentalidade de segurança desde o início dos estudos.
